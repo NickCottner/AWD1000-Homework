@@ -1,0 +1,33 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+    width: 650px;
+    margin: auto;
+    border: 5px double blue;
+    background: white;
+    padding: 2rem;
+}
+html{
+    background-color: yellow;
+}
+h1{
+    color: blue;
+    font-size: 150%;
+}
+h2{
+    font-size: 125%;
+}
+h3{
+    font-size: 115%;
+}
+img{
+    float: left;
+    padding: 1rem;
+}
+footer{
+    font-size: 90%;
+    font-weight: bold;
+    text-align: center;
+    border-top: 2px solid blue;
+    margin-bottom: -2rem;
+}
